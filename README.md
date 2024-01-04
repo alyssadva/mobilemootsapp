@@ -18,3 +18,5 @@
 <h4>Praktikum PAM</h4>
 <h5> Link Penjelasan 1 Layer Find Activity -> Desi Ainul Amelia 1217050034 (Praktikum E)</h5>
 -> https://drive.google.com/file/d/1HI1i-FmoOxofxR8R-4-adzKo5Jc5cFLe/view?usp=sharing
+<h5> Link Penjelasan 2 Layer upload/create Activity -> Alyssa Divaira 1217050009 (Praktikum E)</h5>
+-> https://drive.google.com/file/d/1zjmujcCa5kqutxHYSFuFieJXotbMjyug/view?usp=sharing
