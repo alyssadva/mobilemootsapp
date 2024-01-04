@@ -8,7 +8,7 @@
 <h6>Demo Apps</h6>
 -> https://drive.google.com/file/d/1Swc8hYlcsad83BPDsrHMpi6sw-dwuSog/view?usp=sharing
 <h6>Pitch Deck</h6>
--> https://drive.google.com/file/d/1Swc8hYlcsad83BPDsrHMpi6sw-dwuSog/view?usp=sharing
+-> https://drive.google.com/file/d/1sd0edyzscIghAqe09HIKjaYDITcwL4Gs/view?usp=sharing
 <h6>Vidio Pitch Deck</h6>
 -> https://drive.google.com/file/d/136TF7_57v1XeRN8tVYnNN-yFDaeVNiLR/view?usp=sharing
 
