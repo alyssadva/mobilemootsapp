@@ -1,6 +1,6 @@
 <h3>Anggota Kelompok</h3>
 <h4>Alya Kusuma Wardhani 1217050008</h4>
-<h4>Alyssa Divaira 121705009</h4>
+<h4>Alyssa Divaira 1217050009</h4>
 <h4>Desi Ainul Amelia 1217050034</h4>
 <h4>Dila Nur Ilahiyah 1217050040</h4>
 
